@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527194223547",
+    "firebase_url": "https://adminfinalshop.firebaseio.com",
+    "project_id": "adminfinalshop",
+    "storage_bucket": "adminfinalshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527194223547:android:3ca98f6308a9fed7658a9e",
+        "android_client_info": {
+          "package_name": "dubois.shopadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527194223547-u77ujla2j4uesjgub2nmsa2v4ef3gn3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjgTADs01RubBjUuCXhco22G1hGi7pz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527194223547-u77ujla2j4uesjgub2nmsa2v4ef3gn3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

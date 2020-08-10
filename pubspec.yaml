@@ -1,0 +1,60 @@
+name: ecommerce
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  carousel_pro: 
+  http: 
+  shared_preferences: 
+  cloud_firestore: 
+  font_awesome_flutter: 
+  firebase_auth: 
+  google_sign_in: 
+  fluttertoast: 
+  firebase_database:
+  crypto: 
+
+  
+  
+  
+  
+
+ 
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+ 
+  assets:
+    - res/n.jpg
+    - res/h.jpg
+    - tes/bg1.png
+    - tes/bg2.png
+    - tes/bg3.png
+    - tes/bg4.png
+    - tes/g1.png
+    - tes/g2.png
+    - tes/h1.png
+    - tes/h2.png
+    - tes/h3.png
+    
+    
+    
+
+  
